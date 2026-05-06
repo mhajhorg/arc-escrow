@@ -83,6 +83,7 @@ export default function ClientDashboardPage() {
             </Link>
           </CardContent>
         </Card>
+      </div>
 
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
         <Card>
